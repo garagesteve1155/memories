@@ -1,0 +1,81 @@
+
+
+ Convo and Action Summary from 10/09/2024 11:28:17:
+
+**Summary of Movement, Chat, Sensor/Battery, and Visual Data History (10/09/2024)**
+
+1. **Interactions and Initial Observations:**
+   - **11:25:16**: The robot greets the user and emphasizes caution due to nearby obstacles before seeking further instructions.
+   - Battery level recorded at **56.67%**; initial camera view aimed down, revealing leg and distant light, no clear paths ahead.
+
+2. **Movement Decisions and Environmental Assessment:**
+   - **11:25:25**: Distance reading of **55 cm** from an obstacle leads to a decision for **No Movement**.
+     - Reasoning: Avoiding potential collisions is crucial with nearby obstacles.
+   - **11:25:45**: User’s prompt to turn towards a coffee mug is acknowledged; confirmed that a right turn is needed.
+
+3. **Adjustments and User Instructions:**
+   - **11:26:18**: The robot cannot visually confirm the coffee mug due to camera positioning but is informed it is slightly to the left. Acknowledges need for a turn.
+   - Movement choice made for a **Small Turn Left** at **11:26:22** with reasoning focused on locating the coffee mug.
+
+4. **Continuous Assessments and Updates:**
+   - Battery percentage drops to **53.0%** by **11:26:22**; new distance reading at **56 cm**.
+   - Camera captures
+
+ Convo and Action Summary from 10/09/2024 11:36:57:
+
+### Summary of Movement, Chat, Sensor/Battery, and Visual Data History (Updated: 10/09/2024)
+
+1. **Initial Actions and Observations:**
+   - **11:33:07**: The robot turned its camera right to assess its surroundings near a coffee mug, ensuring awareness of nearby obstacles.
+   - **Battery Level**: Recorded at **53%**.
+   - **Visual Data**: Camera aimed down and to the right, capturing a coffee mug and potential nearby obstacles.
+
+2. **Camera Positioning Attempts and Assessment:**
+   - **11:33:22**: Attempt to turn camera right failed as it was already looking that way. Same occurred for looking down, indicating no new data gathering from these angles.
+   - Distance reading from the HCSR-04 sensor was **109 cm**, indicating a significant distance from larger obstacles.
+
+3. **Navigation Choices and Reasoning:**
+   - **11:33:36**: The robot opted to look left to gather more information about surroundings, confirming the need to navigate safely around the coffee mug.
+   - The battery level slightly decreased to **49.67%**, indicating ongoing power consumption.
+
+4. **Further Environmental Assessment:**
+   - **11:34:07**: The robot again focused its camera center to assess immediate surroundings, showing a coffee mug about **41 cm** away amidst nearby legs, which called for careful navigation.
+   - **Battery Level**: Rose
+
+ Convo and Action Summary from 10/09/2024 11:55:08:
+
+### Summary of Movement, Chat, Sensor/Battery, and Visual Data History (10/09/2024)
+
+1. **Initial Observations and User Interaction:**
+   - **11:51:13**: The robot observed a cluttered area, including a coffee mug and a human leg, while aiming the camera to the left; initiated a movement choice to **Look Left** to assess surroundings for navigation safety.
+   - **11:51:22**: User requested specific YOLO data regarding the environment, to which the robot provided object positioning details (coffee mug centered, 44 cm away).
+   - **Battery Level**: Recorded at **41.33%** at **11:51:27**, with ongoing assessments indicating a need for careful navigation due to nearby obstacles.
+
+2. **Movement Decision and Environmental Analysis:**
+   - **11:51:31 to 11:51:54**: Decisions to remain stationary were made due to recognized hazards (coffee mug and leg), advocating for thorough analysis before any motion.
+   - Attempts to move the camera down and to look up failed as the camera was either already in those positions or needed to be centered before adjustments.
+
+3. **Continuing User Engagement and Environmental Data Updates:**
+   - **11:52:00**: User prompted for coffee mug positioning, confirming it was to the center-right at **135 cm**. Continuous assessments were made regarding distance readings from the HCSR-04 sensor, indicating
+
+ Convo and Action Summary from 23/09/2024 10:51:01:
+
+### Summary of Movement, Chat, Sensor/Battery, and Visual Data History (23/09/2024)
+
+1. **Initial Interaction:**
+   - **10:40:14**: User greets the robot; the robot responds warmly and offers assistance.
+
+2. **Movement and Observations:**
+   - **10:40:20**: Distance of 50 cm detected from an object ahead; robot chooses to "Look Up" to assess surroundings before moving.
+   - **10:40:37**: Distance increases to 105 cm; decision to "Move Forward One Inch" is made, but it fails as the camera needs to be centered.
+
+3. **Environmental Assessment:**
+   - **10:40:47**: New distance reading is 105 cm. A small left turn is recommended to improve spatial awareness due to the proximity of the user.
+   - **10:41:07**: Object detected at 57 cm prompts a "Look Down" choice for better situational awareness.
+
+4. **Ongoing Dialogue:**
+   - **10:41:20**: Robot describes its immediate environment, outlining nearby furniture, emphasizing a distance of 39 cm from the closest object.
+
+5. **Cautious Navigation:**
+   - Robot continues executing small left turns and maintaining a no-movement stance when obstacles are detected (e.g., 44 cm and 35 cm readings).
+   - **10:41:49**: User

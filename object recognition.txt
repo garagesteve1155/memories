@@ -1,0 +1,70 @@
+
+
+ Convo and Action Summary from 03/09/2024 13:17:00:
+
+**Summary of Movement, Chat, Sensor/Battery, and Visual Data History:**
+
+1. **Battery Status:**
+   - 03/09/2024, 13:10:00: 45.67%
+   - 03/09/2024, 13:10:41: 48.67%
+   - 03/09/2024, 13:11:05: 48.67%
+   - 03/09/2024, 13:11:25: 48.67%
+   - 03/09/2024, 13:11:46: 48.00%
+   - 03/09/2024, 13:12:42: 44.33%
+   - 03/09/2024, 13:13:28: 47.33%
+   - 03/09/2024, 13:14:17: 47.33%
+   - 03/09/2024, 13:15:00: 47.67%
+   - 03/09/2024, 13:15:18: 45.33%
+   - 03/09/2024, 13:15:38: 45.67%
+   - 03/09/2024, 13:15:58: 44.33%
+   - 03/09/2024, 13
+
+ Convo and Action Summary from 10/09/2024 08:43:36:
+
+**Summary of Movement, Chat, Sensor/Battery, and Visual Data History (10/09/2024)**
+
+1. **Initial Interaction:**
+   - **Time: 08:42:24** - The AI greets the user and offers assistance.
+   - **User Response**: Brief acknowledgment.
+
+2. **Movement and Observations:**
+   - **08:42:26**: The robot moves forward 1 inch to assess surroundings.
+   - **Battery Level**: 60.0% at **08:42:31**.
+   - **Distance Reading**: 44 cm from obstacle detected.
+   - **Visual Data**: Large person located at top-center of the camera view.
+
+3. **Position and Decision Making:**
+   - **08:42:31**: Maintains position to gather information, avoiding detected hazards. 
+   - **Response to User**: Expresses readiness for further exploration.
+
+4. **Update on Observations:**
+   - **08:42:49**: 
+     - Battery: 61.67%. 
+     - Distance: 45 cm, maintaining awareness of constraints.
+     - Visual Data: Large person still detected; continues to stay still for safety.
+
+5. **Adaptive Responses:**
+   - **08:42:54**: Continuing assessment of surroundings and gathering information.
+   - **Movement Choice**: Executes a Small Turn Left to gather more data about the environment while avoiding obstacles
+
+ Convo and Action Summary from 10/09/2024 08:52:29:
+
+**Summary of Movement, Chat, Sensor/Battery, and Visual Data History (10/09/2024)**
+
+1. **Initial Visual and Sensor Data:**
+   - **08:48:40**: Camera sees a small backpack in the bottom-right; ultrasonic sensor detects an object 200 cm away. Battery at 55%.
+   - **08:48:32**: Reconfirmed backpack and distance reading with no immediate obstacles.
+
+2. **Movement Decisions:**
+   - **08:48:32**: Choice to move forward 1 foot to engage with the backpack, justified by the battery level and strategic exploration.
+   - **08:48:44**: Movement to go forward failed; camera needs to be downward to proceed.
+
+3. **Environmental Observations:**
+   - **08:48:47**: Camera positioned up-center shows a medium-sized dog. Distance sensor reads 200 cm with no immediate obstacles but warning for cautious navigation.
+   - **08:49:01**: Choice to look down made to identify ground-level hazards; detects possible obstacles.
+
+4. **Affected by Movement and Battery Levels:**
+   - **Battery Readings**: Gradual decrease from 55% to 52% during exploration, before slight recovery due to minor movements.
+   - **Key Objects Detected**: 
+     - **08:49:15**: A small bottle found at center-right, distance 71 cm. 
+     - **

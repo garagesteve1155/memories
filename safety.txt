@@ -1,0 +1,54 @@
+
+
+ Convo and Action Summary from 06/09/2024 15:11:14:
+
+**Summary of Movement, Chat, Sensor/Battery, and Visual Data History:**
+
+1. **Timestamp: 06/09/2024 15:06:51**  
+   - **Battery Level**: 52.67%.  
+   - **Camera Position**: Down and to the center.  
+   - **Distance Reading**: 200 cm (HCSR-04).  
+   - **Visual Data**: Medium-sized person in view; movement decided to move forward one foot to explore safely.  
+
+2. **Timestamp: 06/09/2024 15:07:11**  
+   - **Battery Level**: 52.0%.  
+   - **Distance Reading**: 98 cm.  
+   - **Visual Data**: Object detected ahead, movement choice updated to move forward one inch for safety.  
+
+3. **Timestamp: 06/09/2024 15:07:33**  
+   - **Battery Level**: 49.0%.  
+   - **Distance Reading**: 91 cm.  
+   - **Visual Data**: Medium-sized person and small backpack observed; choice to move forward one inch to maintain engagement and safety.  
+
+4. **Timestamp: 06/09/2024 15:07:51**  
+   - **Battery Level**: 50.67%.  
+   - **Camera Position**: Down and to the center.  
+   - **Distance Reading**
+
+ Convo and Action Summary from 10/09/2024 08:43:36:
+
+**Summary of Movement, Chat, Sensor/Battery, and Visual Data History (10/09/2024)**
+
+1. **Initial Interaction:**
+   - **Time: 08:42:24** - The AI greets the user and offers assistance.
+   - **User Response**: Brief acknowledgment.
+
+2. **Movement and Observations:**
+   - **08:42:26**: The robot moves forward 1 inch to assess surroundings.
+   - **Battery Level**: 60.0% at **08:42:31**.
+   - **Distance Reading**: 44 cm from obstacle detected.
+   - **Visual Data**: Large person located at top-center of the camera view.
+
+3. **Position and Decision Making:**
+   - **08:42:31**: Maintains position to gather information, avoiding detected hazards. 
+   - **Response to User**: Expresses readiness for further exploration.
+
+4. **Update on Observations:**
+   - **08:42:49**: 
+     - Battery: 61.67%. 
+     - Distance: 45 cm, maintaining awareness of constraints.
+     - Visual Data: Large person still detected; continues to stay still for safety.
+
+5. **Adaptive Responses:**
+   - **08:42:54**: Continuing assessment of surroundings and gathering information.
+   - **Movement Choice**: Executes a Small Turn Left to gather more data about the environment while avoiding obstacles

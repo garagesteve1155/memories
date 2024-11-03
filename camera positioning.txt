@@ -1,0 +1,86 @@
+
+
+ Convo and Action Summary from 03/09/2024 13:17:00:
+
+**Summary of Movement, Chat, Sensor/Battery, and Visual Data History:**
+
+1. **Battery Status:**
+   - 03/09/2024, 13:10:00: 45.67%
+   - 03/09/2024, 13:10:41: 48.67%
+   - 03/09/2024, 13:11:05: 48.67%
+   - 03/09/2024, 13:11:25: 48.67%
+   - 03/09/2024, 13:11:46: 48.00%
+   - 03/09/2024, 13:12:42: 44.33%
+   - 03/09/2024, 13:13:28: 47.33%
+   - 03/09/2024, 13:14:17: 47.33%
+   - 03/09/2024, 13:15:00: 47.67%
+   - 03/09/2024, 13:15:18: 45.33%
+   - 03/09/2024, 13:15:38: 45.67%
+   - 03/09/2024, 13:15:58: 44.33%
+   - 03/09/2024, 13
+
+ Convo and Action Summary from 23/09/2024 10:51:01:
+
+### Summary of Movement, Chat, Sensor/Battery, and Visual Data History (23/09/2024)
+
+1. **Initial Interaction:**
+   - **10:40:14**: User greets the robot; the robot responds warmly and offers assistance.
+
+2. **Movement and Observations:**
+   - **10:40:20**: Distance of 50 cm detected from an object ahead; robot chooses to "Look Up" to assess surroundings before moving.
+   - **10:40:37**: Distance increases to 105 cm; decision to "Move Forward One Inch" is made, but it fails as the camera needs to be centered.
+
+3. **Environmental Assessment:**
+   - **10:40:47**: New distance reading is 105 cm. A small left turn is recommended to improve spatial awareness due to the proximity of the user.
+   - **10:41:07**: Object detected at 57 cm prompts a "Look Down" choice for better situational awareness.
+
+4. **Ongoing Dialogue:**
+   - **10:41:20**: Robot describes its immediate environment, outlining nearby furniture, emphasizing a distance of 39 cm from the closest object.
+
+5. **Cautious Navigation:**
+   - Robot continues executing small left turns and maintaining a no-movement stance when obstacles are detected (e.g., 44 cm and 35 cm readings).
+   - **10:41:49**: User
+
+ Convo and Action Summary from 28/09/2024 10:30:16:
+
+### Summary of Movement, Chat, Sensor/Battery, and Visual Data History (28/09/2024)
+
+1. **Initial Observations (10:28:14)**:
+   - **Visual Description**: Indoor setting with wooden walls, a bed with a plaid blanket, a fan, and a cozy atmosphere illuminated by natural light.
+   - **YOLO Detections**: Identified objects but required no movement to center on them.
+
+2. **User Interaction**:
+   - **10:28:19**: User greeted the robot; the robot responded and offered assistance.
+   - Expression of no movement choices were confirmed afterward (10:28:33, 10:28:51).
+
+3. **Continued Visual Assessments**:
+   - **10:29:01**: Observations included a man and a person in an orange vest, along with familiar furniture, indicating a casual environment.
+   - **10:29:20**: Noted simplicity and lived-in appearance, with ambient natural lighting.
+
+4. **Clarification Needed**:
+   - **10:29:18**: User explained movement isn't solely about centering on objects; the robot acknowledged and requested direction for movement.
+
+5. **Robot Movement**:
+   - **10:29:26**: Successfully moved forward 1 foot and executed a small right turn.
+   - Brief measurements and descriptions continued, though some attempts to move forward failed due to proximity to obstacles (10
+
+ Convo and Action Summary from 28/09/2024 10:49:54:
+
+### Summary of Movement, Chat, Sensor/Battery, and Visual Data History (28/09/2024)
+
+1. **Initial Environment Observations (10:46:34)**:
+   - **Visual Description**: Cluttered indoor space featuring stacked cardboard boxes, a tripod light source, a colorful basket of plush toys, a white surface, and a dark can. Concrete floor with plain walls enhanced the utilitarian feel.
+   - **YOLO Detections**: Identified objects but did not specify movement requirements.
+
+2. **User Interaction**:
+   - **10:46:38**: User greeted the robot, which responded positively and offered assistance.
+   - **10:46:48**: User requested the robot to move closer to a "pan," later clarified as a "can."
+
+3. **Robot Actions and Environmental Navigation**:
+   - **10:46:53**: Camera and distance sensor positioned upwards.
+   - **10:47:01**: Acknowledged the user's clarification and prepared to move towards the can.
+   - **10:47:13**: Attempt to move forward 1 foot failed due to camera orientation; small turn right was successful.
+   - **10:47:24**: Looked down, ready for further movement.
+
+4. **Successful Movements**:
+   - **10:47:26 to 10:48:20**: The robot executed several movements forward and inch adjustments toward the

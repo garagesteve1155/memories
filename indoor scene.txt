@@ -1,0 +1,50 @@
+
+
+ Convo and Action Summary from 28/09/2024 10:30:16:
+
+### Summary of Movement, Chat, Sensor/Battery, and Visual Data History (28/09/2024)
+
+1. **Initial Observations (10:28:14)**:
+   - **Visual Description**: Indoor setting with wooden walls, a bed with a plaid blanket, a fan, and a cozy atmosphere illuminated by natural light.
+   - **YOLO Detections**: Identified objects but required no movement to center on them.
+
+2. **User Interaction**:
+   - **10:28:19**: User greeted the robot; the robot responded and offered assistance.
+   - Expression of no movement choices were confirmed afterward (10:28:33, 10:28:51).
+
+3. **Continued Visual Assessments**:
+   - **10:29:01**: Observations included a man and a person in an orange vest, along with familiar furniture, indicating a casual environment.
+   - **10:29:20**: Noted simplicity and lived-in appearance, with ambient natural lighting.
+
+4. **Clarification Needed**:
+   - **10:29:18**: User explained movement isn't solely about centering on objects; the robot acknowledged and requested direction for movement.
+
+5. **Robot Movement**:
+   - **10:29:26**: Successfully moved forward 1 foot and executed a small right turn.
+   - Brief measurements and descriptions continued, though some attempts to move forward failed due to proximity to obstacles (10
+
+ Convo and Action Summary from 28/09/2024 10:30:36:
+
+### Summary of Movement, Chat, Sensor/Battery, and Visual Data History (28/09/2024)
+
+1. **Initial Observations (10:28:14)**:
+   - **Visual Description**: Indoor setting with wooden walls, a bed with a plaid blanket, a fan, and a cozy atmosphere illuminated by natural light.
+   - **YOLO Detections**: Objects identified, no movement necessary to center on them.
+
+2. **User Interaction**:
+   - **10:28:19**: User greeted the robot; the robot responded and offered assistance.
+   - Confirmed no movement choices multiple times (10:28:33, 10:28:51).
+
+3. **Continued Visual Assessments**:
+   - **10:29:01**: Image described a casual scene with individuals and familiar furniture.
+   - **10:29:20**: Highlighted the lived-in appearance of the room.
+
+4. **Movement Clarification**:
+   - **10:29:18**: User clarified that movement isn't limited to centering on objects; the robot acknowledged and sought direction for movement.
+
+5. **Robot Movement**:
+   - Successfully moved forward 1 foot and turned right (10:29:26).
+   - Encountered obstacles that limited movement at times (e.g., failed to move forward due to proximity issues).
+
+6. **Subsequent Visual Observations**: 
+   - Various descriptions of the room noted
